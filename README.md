@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Your Name]
+# 👋 Hey, I'm LzyAK
 
 > Professional bug creator. Part-time bug fixer.
 
@@ -8,8 +8,8 @@
 
 ```javascript
 const me = {
-    name: "Your Name",
-    role: "Developer",
+    name: Achuthan,
+    role: Developer,
     coffeeLevel: Infinity,
     sleepSchedule: "undefined",
     currentlyDoing: "console.log('debugging')",
